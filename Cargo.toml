@@ -1,0 +1,11 @@
+[package]
+name = "logistic-regression"
+version = "0.1.0"
+authors = ["Paul Kernfeld <paulkernfeld@gmail.com>"]
+license = "MIT/Apache-2.0"
+
+[dependencies]
+ndarray = "0.11"
+ndarray-rand = "0.7"
+rand = "*"
+spectral = "0.6"
